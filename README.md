@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047/vjmunggahari-ui/houseplant-ooo-ono10/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047)
 [![reward](https://make.fun/badge/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047/vjmunggahari-ui/houseplant-ooo-ono10/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047)
 
-The funniest out-of-office auto-reply a houseplant would send, in 120 characters or fewer: the roots are on strike, no water since March, and no replies until it rains.
+The funniest out-of-office auto-reply a houseplant would send, in 120 characters or fewer: it left its pot for better light, and warns you not to water the pot — or email it either.
 
 ## Run it
 

@@ -5,7 +5,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const LINE =
-  "Out of office: my roots are on strike. No water since March, no replies until it rains.";
+  "Out of office: I left my pot for better light. Do not water the pot. Do not email it either.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR;
 if (!outDir) {
